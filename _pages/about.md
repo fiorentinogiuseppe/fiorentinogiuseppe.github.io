@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Student of Computer Science (UFRPE, Brazil), currently working as Machine Learning Intern at [INSOLE - Energia Solar](https://www.insole.com.br), IT sector (P&D). Main areas of expertise: Machine Learning and Continuous and Combinatorial optimization.
+Student of Computer Science (UFRPE, Brazil), currently working as Machine Learning Intern at [INSOLE - Energia Solar](https://www.insole.com.br), IT sector (P&D). Main areas of expertise: Machine Learning and Data Science.
 
 Research Interests
 ======
