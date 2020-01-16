@@ -11,7 +11,7 @@ Student of Computer Science (UFRPE, Brazil), currently working as Machine Learni
 
 Research Interests
 ======
-  - Learning Algorithms
+  - Machine Learning
   - Data Science
   - NLP (In learning)
   - Reinforcement Learning (In learning)
